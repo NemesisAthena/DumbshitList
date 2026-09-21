@@ -8,5 +8,11 @@
     "percentToQualify": "64",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=61cGTt6io84",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
